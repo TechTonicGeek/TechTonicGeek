@@ -31,9 +31,7 @@ Here's what powers our blogging platform:
 
 - **Frontend:** Next.js, React.js, TailwindCSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** PostgreSQL  
-- **Hosting:** Google Cloud Run  
-- **CI/CD:** GitHub Actions  
+- **Database:** PostgreSQL   
 - **Other Tools:** Prisma, Redis, and more  
 
 ---

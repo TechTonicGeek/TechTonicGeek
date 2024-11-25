@@ -52,7 +52,7 @@ Your contributions make this platform even better! 💪
 
 Got questions or want to collaborate? Reach out to us:  
 
-- 🌐 [Visit TechTonicGeek](https://yourblogsite.com)  
+- 🌐 [Visit TechTonicGeek](https://techtonicgeek.com)  
 - 📧 Email: [TechTonicGeek@gmail.com](mailto:TechTonicGeek@gmail.com)  
 - 💼 LinkedIn: [TechTonicGeek](https://linkedin.com/in/TechTonicGeek)  
 - 🐦 Twitter: [@TechTonicGeek](https://twitter.com/TechTonicGeek)  

@@ -27,11 +27,11 @@ On this GitHub profile, you'll find:
 
 ## 📊 Tech Stack  
 
-Here's what powers our blogging platform:  
+Here's what powers our projects:  
 
 - **Frontend:** Next.js, React.js, TailwindCSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB
+- **Database:** MongoDB, PostgreSQL  
 - **Other Tools:** Prisma, Redis, and more  
 
 ---
